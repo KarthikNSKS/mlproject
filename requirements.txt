@@ -3,4 +3,7 @@ numpy
 seaborn
 scikit-learn
 dill
+xgboost
+pyyaml==6.0.1
+catboost
 -e .
